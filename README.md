@@ -1,6 +1,6 @@
 # app_budget
 The Budget app - Flutter application is structured into several Dart files to maintain a well-organized and modular codebase. In `components.dart`, reusable widgets like `OpenSans`, `Poppins`, and `TextForm` are defined for consistent text styling and input forms. Additionally, a `DialogBox` function is included for displaying dialog boxes throughout the app. 
-
+ 
 The main features include:
 Sure, here are the main points of the Flutter app's features:
 
